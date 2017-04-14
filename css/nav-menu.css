@@ -1,4 +1,22 @@
 
-.navbar-inverse {
+.navbar {
     background-color: white !important;
 }
+
+.nav-title {
+    color: darkgray;
+    font-family: Georgia, serif;
+    font-size: 22px;
+}
+
+.nav-font > li > a {
+    color: darkgray;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.icon-bar-color {
+    background: black;
+}
+
+

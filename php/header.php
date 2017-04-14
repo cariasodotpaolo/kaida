@@ -6,7 +6,7 @@
     <title></title>
 </head>
 <body>
-    <header id="myCarousel" class="carousel slide">
+    <header id="myCarousel" class="carousel slide carousel-fade">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -20,22 +20,51 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image: url("../assets/banner/guazoninvite.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_01.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The Moon Follows and the Sun is Always Beyond</h2>
+                    <h3>Solo Exhibition by Eleanor Giron</h3>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image: url("../assets/banner/giron_01.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/guazoninvite.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Eric Guanzon: Strike To Counter</h2>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image: url("../assets/banner/giron_02.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_02.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The Moon Follows and the Sun is Always Beyond</h2>
+                    <h3>Solo Exhibition by Eleanor Giron</h3>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image: url("../assets/banner/giron_03.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_03.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The Moon Follows and the Sun is Always Beyond</h2>
+                    <h3>Solo Exhibition by Eleanor Giron</h3>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image: url("../assets/banner/giron_04.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_04.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The Moon Follows and the Sun is Always Beyond</h2>
+                    <h3>Solo Exhibition by Eleanor Giron</h3>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image: url("../assets/banner/giron_05.jpg");"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_05.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The Moon Follows and the Sun is Always Beyond</h2>
+                    <h3>Solo Exhibition by Eleanor Giron</h3>
+                    <h3>April 16 to May 1, 2017</h3>
+                </div>
             </div>
         </div>
 
