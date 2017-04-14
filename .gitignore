@@ -1,4 +1,8 @@
 *.class
+*.html
+*.zip
+*.jpg
+assets/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
