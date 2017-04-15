@@ -26,7 +26,7 @@
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <a class="main-title" href="#">Kaida Contemporary</a>
+            <a class="main-title" href="javascript:void(0);" onclick="getContent('main-body','php/home-template.php','main-body');">Kaida Contemporary</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
