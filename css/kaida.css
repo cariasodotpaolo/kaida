@@ -92,3 +92,8 @@ footer {
         height: 70%;
     }
 }
+
+.logo-img {
+    display: block;
+    margin: auto;
+}
