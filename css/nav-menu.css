@@ -13,7 +13,7 @@
 .nav-menu-bar-custom {
     float: right;
     width: 600px;
-    padding-top: 15px;
+    /*padding-top: 15px;*/
 }
 
 .navbar-toggle-custom {
@@ -34,6 +34,7 @@
 .nav-custom {
     background-color: white;
     text-align: right;
+    top: 0;
 }
 
 .nav-custom > li > a {
