@@ -10,9 +10,9 @@
     <!-- Marketing Icons Section -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">
-                Welcome to the gallery
-            </h1>
+            <h2 class="page-header">
+                What's New?
+            </h2>
         </div>
         <div class="col-md-4">
             <div class="panel panel-default">
@@ -57,7 +57,7 @@
     <!-- Portfolio Section -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Featured Gallery</h2>
+            <h2 class="page-header">Featured Artwork</h2>
         </div>
         <div class="col-md-4 col-sm-6">
             <a href="portfolio-item.html">
@@ -93,7 +93,7 @@
     <!-- /.row -->
 
     <!-- Features Section -->
-    <div class="row">
+    <!--<div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Modern Business Features</h2>
         </div>
@@ -113,13 +113,13 @@
         <div class="col-md-6">
             <img class="img-responsive" src="http://placehold.it/700x450" alt="">
         </div>
-    </div>
+    </div>-->
     <!-- /.row -->
 
     <hr>
 
     <!-- Call to Action Section -->
-    <div class="well">
+    <!--<div class="well">
         <div class="row">
             <div class="col-md-8">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
@@ -128,7 +128,7 @@
                 <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <hr>
 
@@ -136,7 +136,7 @@
     <footer>
         <div class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Your Website 2014</p>
+                <p>Copyright &copy; www.kaidacontemporary.com 2017</p>
             </div>
         </div>
     </footer>
