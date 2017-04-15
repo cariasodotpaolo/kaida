@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>HTML5 / CSS3 Drop-Down Navigation Menu</title>
+	<title></title>
 	<meta name="description" content="">
 	
 	<link rel="stylesheet" href="../css/nav-menu.css" type="text/css">
@@ -26,13 +26,13 @@
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <p class="main-title">Kaida Contemporary</p>
+            <a class="main-title" href="#">Kaida Contemporary</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right nav-font">
                 <li>
-                    <a href="about.html">About</a>
+                    <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');">The Gallery</a>
                 </li>
                 <li>
                     <a href="services.html">Events</a>
