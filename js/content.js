@@ -15,3 +15,7 @@ function getContent(sourceID, contentUrl, container)
         }
     });
 }
+
+function closeMenu() {
+    $('#navbar-toggle').click();
+}

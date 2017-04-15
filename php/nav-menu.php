@@ -10,8 +10,8 @@
 	<!-- IE6-8 support of HTML5 elements --> <!--[if lt IE 9]>
 	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-    <script type="text/javascript"
-            src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <!--<script type="text/javascript"
+            src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
     <script src="../js/content.js"></script>
 </head>
 
@@ -20,19 +20,19 @@
     <div class="container container-custom">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header navbar-header-custom">
-            <button type="button" class="navbar-toggle navbar-toggle-custom" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" id="navbar-toggle" class="navbar-toggle navbar-toggle-custom" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <a class="main-title" href="javascript:void(0);" onclick="getContent('main-body','php/home-template.php','main-body');">KAIDA Contemporary</a>
+            <a class="main-title" href=".">KAIDA Contemporary</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right nav-custom">
+            <ul id="nav" class="nav navbar-nav navbar-right nav-custom">
                 <li>
-                    <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');">The Gallery</a>
+                    <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');closeMenu();">The Gallery</a>
                 </li>
                 <li>
                     <a href="services.html">Events</a>

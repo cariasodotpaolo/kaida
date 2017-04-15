@@ -14,7 +14,7 @@
                     <small></small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="javascript:void(0);" onclick="getContent('main-body','php/home-template.php','main-body');">Home</a>
+                    <li><a href=".">Home</a>
                     </li>
                     <li class="active">About</li>
                 </ol>

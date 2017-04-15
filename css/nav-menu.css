@@ -34,7 +34,6 @@
 .nav-custom {
     background-color: white;
     text-align: right;
-    top: 0;
 }
 
 .nav-custom > li > a {
@@ -56,5 +55,7 @@
 .carousel-inner-custom {
     background: black;
 }
+
+
 
 
