@@ -20,13 +20,13 @@
     <div class="container container-custom">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header navbar-header-custom">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle navbar-toggle-custom" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <span class="main-title">Kaida Contemporary</span>
+            <p class="main-title">Kaida Contemporary</p>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">

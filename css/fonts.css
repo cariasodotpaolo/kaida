@@ -1,7 +1,8 @@
 .main-title {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 26px;
+    font-size: 24px;
+    bottom: 0;
 }
 
 .carousel-caption-title {
