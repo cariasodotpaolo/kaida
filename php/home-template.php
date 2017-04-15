@@ -16,12 +16,17 @@
 
     <!-- Custom CSS -->
     <link href="../css/kaida.css" rel="stylesheet">
-    <link href="../css/nav-menu.css" rel="stylesheet">
+    <link href="../css/template.css" rel="stylesheet">
     <link href="../css/header-carousel.css" rel="stylesheet">
+    <link href="../css/fonts.css" rel="stylesheet">
 
 
     <!-- Custom Fonts -->
     <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
 
     <!--<script src="../js/bootstrap.min.js"></script>
     <script src="../js/jquery.js"></script>-->

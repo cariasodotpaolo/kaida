@@ -1,6 +1,20 @@
+.container-custom {
+    height: 100px;
+}
+
+.navbar-header-custom {
+    padding-top: 20px;
+}
+
+.nav-menu-bar-custom {
+    float: right;
+    width: 600px;
+    padding-top: 20px;
+}
 
 .navbar {
     background-color: white !important;
+    height: 70px !important;
 }
 
 .nav-title {

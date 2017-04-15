@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/guazoninvite.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/guazon_01.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>Eric Guanzon: Strike To Counter</h2>
                     <h3>April 16 to May 1, 2017</h3>

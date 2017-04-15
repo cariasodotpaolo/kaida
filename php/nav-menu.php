@@ -17,19 +17,19 @@
 
 <body>
 <nav class="navbar navbar-fixed-top" role="navigation">
-    <div class="container">
+    <div class="container container-custom">
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
+        <div class="navbar-header navbar-header-custom">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <a class="navbar-brand nav-title" href="#">Kaida Contemporary</a>
+            <span class="main-title">Kaida Contemporary</span>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right nav-font">
                 <li>
                     <a href="about.html">About</a>
