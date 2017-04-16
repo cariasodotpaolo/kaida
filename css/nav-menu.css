@@ -12,8 +12,9 @@
 
 .nav-menu-bar-custom {
     float: right;
-    width: 600px;
-    /*padding-top: 15px;*/
+    width: 800px;
+    padding-top: 10px;
+    overflow: hidden;
 }
 
 .navbar-toggle-custom {

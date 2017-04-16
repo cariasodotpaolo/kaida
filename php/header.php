@@ -19,7 +19,24 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner carousel-inner-custom">
             <div class="item active">
-                <div class="fill" style="background-image:url('../assets/banner/giron_01.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/giron_03.jpg');"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
+                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
+                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/giron_04.jpg');"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
+                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
+                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/giron_05.jpg');"></div>
                 <div class="carousel-caption">
                     <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
                     <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
@@ -34,34 +51,16 @@
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_02.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/guazon_02.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
+                    <p class="carousel-caption-title">Eric Guanzon: Strike To Counter</p>
                     <p class="carousel-caption-title">April 16 to May 1, 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_03.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/guazon_03.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_04.jpg');"></div>
-                <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_05.jpg');"></div>
-                <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
+                    <p class="carousel-caption-title">Eric Guanzon: Strike To Counter</p>
                     <p class="carousel-caption-title">April 16 to May 1, 2017</p>
                 </div>
             </div>

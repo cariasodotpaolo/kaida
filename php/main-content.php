@@ -25,11 +25,11 @@
                         Kaida Contemporary<br>
                         16 April - 1 May 2017<br>
                         6:00PM</p>
-                    <a href="#" class="btn btn-default">Learn More</a>
+                    <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');closeMenu();" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <!--<div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4><i class="fa fa-fw fa-gift"></i> News and Updates</h4>
@@ -50,7 +50,7 @@
                     <a href="#" class="btn btn-default">Learn More</a>
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>
     <!-- /.row -->
 

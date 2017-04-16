@@ -26,7 +26,7 @@
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <a class="main-title" href=".">KAIDA Contemporary</a>
+            <a href="."><span class="main-title">KAIDA</span> <span class="main-title-small">CONTEMPORARY</span></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
@@ -35,65 +35,21 @@
                     <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');closeMenu();">The Gallery</a>
                 </li>
                 <li>
-                    <a href="services.html">Events</a>
+                    <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');closeMenu();">Upcoming Exhibitions</a>
                 </li>
 
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="portfolio-1-col.html">1 Column Portfolio</a>
-                        </li>
-                        <li>
-                            <a href="portfolio-2-col.html">2 Column Portfolio</a>
-                        </li>
-                        <li>
-                            <a href="portfolio-3-col.html">3 Column Portfolio</a>
-                        </li>
-                        <li>
-                            <a href="portfolio-4-col.html">4 Column Portfolio</a>
-                        </li>
-                        <li>
-                            <a href="portfolio-item.html">Single Portfolio Item</a>
-                        </li>
-                    </ul>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Backroom</b></a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="blog-home-1.html">Blog Home 1</a>
-                        </li>
-                        <li>
-                            <a href="blog-home-2.html">Blog Home 2</a>
-                        </li>
-                        <li>
-                            <a href="blog-post.html">Blog Post</a>
-                        </li>
-                    </ul>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Past Shows</b></a>
+
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="javascript:void(0);" onclick="getContent('','php/contact-details.php','main-body');closeMenu();">Contact</a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="full-width.html">Full Width Page</a>
-                        </li>
-                        <li>
-                            <a href="sidebar.html">Sidebar Page</a>
-                        </li>
-                        <li>
-                            <a href="faq.html">FAQ</a>
-                        </li>
-                        <li>
-                            <a href="404.html">404</a>
-                        </li>
-                        <li>
-                            <a href="pricing.html">Pricing Table</a>
-                        </li>
-                    </ul>
+                    <a href="javascript:void(0);" onclick="getContent('','php/press.php','main-body');closeMenu();">Press</a>
                 </li>
             </ul>
         </div>
