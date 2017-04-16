@@ -45,18 +45,37 @@
                 </div>
             </div>
         </div>
-        <!--
+
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-compass"></i> For Sale</h4>
+                    <h4>Links</h4>
                 </div>
                 <div class="panel-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                    <a href="#" class="btn btn-default">Learn More</a>
+                    <ul class="list-unstyled list-inline list-social-icons">
+                        <li>
+                            <a href="https://www.facebook.com/kaidagallerymanila/"><i class="fa fa-facebook-square fa-2x"></i> kaidagallerymanila</a>
+                        </li>
+                        <br>
+                        <li>
+                            <a href="https://www.instagram.com/kaidacontemporarygallery/"><i class="fa fa-instagram fa-2x"></i> kaidacontemporarygallery</a>
+                        </li>
+                        <br><br><br><br>
+                        <!--
+                        <li>
+                            <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                        </li>-->
+                    </ul>
+                    <a href="javascript:void(0);" onclick="getContent('','php/contact-details.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>
             </div>
-        </div>-->
+        </div>
     </div>
     <!-- /.row -->
 
