@@ -30,7 +30,7 @@
             <div class="col-md-6">
                 <h2>About Us</h2>
                 <p>
-                    Kaida Contemporary has two open exhibition spaces, the Main Gallery and the Grey Gallery.
+                    Kaida Contemporary has two open exhibition spaces, the Main Gallery and the Gray Room.
                     Fuss-free, compact and adaptable, the spaces can accommodate wall-bound works, freestanding pieces,
                     installations, video art, performances and independent events.
                     Kaida Contemporary has steadfastly served as a springboard for today's most sought-after emerging and
