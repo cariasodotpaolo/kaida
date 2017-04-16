@@ -46,21 +46,21 @@
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/banner/guazon_01.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guanzon: Strike To Counter</p>
+                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
                     <p class="carousel-caption-title">April 16 to May 1, 2017</p>
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/banner/guazon_02.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guanzon: Strike To Counter</p>
+                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
                     <p class="carousel-caption-title">April 16 to May 1, 2017</p>
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/banner/guazon_03.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guanzon: Strike To Counter</p>
+                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
                     <p class="carousel-caption-title">April 16 to May 1, 2017</p>
                 </div>
             </div>
