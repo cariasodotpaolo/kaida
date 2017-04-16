@@ -26,7 +26,7 @@
                 <span class="icon-bar icon-bar-color"></span>
                 <span class="icon-bar icon-bar-color"></span>
             </button>
-            <a href="."><span class="main-title">KAIDA</span> <span class="main-title-small">CONTEMPORARY</span></a>
+            &nbsp;&nbsp;<a href="."><span class="main-title">KAIDA</span> <span class="main-title-small">CONTEMPORARY</span></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar nav-menu-bar-custom" id="bs-example-navbar-collapse-1">
