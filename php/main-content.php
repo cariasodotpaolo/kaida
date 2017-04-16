@@ -29,17 +29,22 @@
                 </div>
             </div>
         </div>
-        <!--<div class="col-md-4">
+        <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-gift"></i> News and Updates</h4>
+                    <h4>Press</h4>
                 </div>
                 <div class="panel-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                    <a href="#" class="btn btn-default">Learn More</a>
+                    <a target="_blank" href="http://lifestyle.mb.com.ph/2017/04/03/all-about-her/">All About Her (lifestyle.mb.com.ph)</a><br>
+                    <a target="_blank" href="http://lifestyle.inquirer.net/244774/two-artists-align-visions-anxieties/">Two Artists Align Visions Anxieties (lifestyle.inquirer.net)</a><br>
+                    <a target="_blank" href="http://www.spot.ph/arts-culture/the-latest-arts-culture/67933/art-galleries-quezon-city-a00171-20160930-lfrm?ref=feed_1">Art Galleries Quezon City (www.spot.ph)</a><br>
+                    <a target="_blank" href="http://lifestyle.inquirer.net/227850/dengcoy-miel-holds-first-one-man-exhibit/">Dengcoy Miel Holds First One Man Exhibit (lifestyle.inquirer.net)</a><br>
+                    <!--<a target="_blank" href="http://www.choosephilippines.com/do/events-and-nightlife/3045/kaida-contemporary-aligned">Kaida Contemporary Aligned (www.choosephilippines.com)</a><br>-->
+                    <a href="javascript:void(0);" onclick="getContent('','php/press.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         </div>
+        <!--
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
