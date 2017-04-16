@@ -35,12 +35,13 @@
                     <h4>Press</h4>
                 </div>
                 <div class="panel-body">
-                    <a target="_blank" href="http://lifestyle.mb.com.ph/2017/04/03/all-about-her/">All About Her (lifestyle.mb.com.ph)</a><br>
-                    <a target="_blank" href="http://lifestyle.inquirer.net/244774/two-artists-align-visions-anxieties/">Two Artists Align Visions Anxieties (lifestyle.inquirer.net)</a><br>
-                    <a target="_blank" href="http://www.spot.ph/arts-culture/the-latest-arts-culture/67933/art-galleries-quezon-city-a00171-20160930-lfrm?ref=feed_1">Art Galleries Quezon City (www.spot.ph)</a><br>
-                    <a target="_blank" href="http://lifestyle.inquirer.net/227850/dengcoy-miel-holds-first-one-man-exhibit/">Dengcoy Miel Holds First One Man Exhibit (lifestyle.inquirer.net)</a><br>
-                    <!--<a target="_blank" href="http://www.choosephilippines.com/do/events-and-nightlife/3045/kaida-contemporary-aligned">Kaida Contemporary Aligned (www.choosephilippines.com)</a><br>-->
-                    <a href="javascript:void(0);" onclick="getContent('','php/press.php','main-body');" class="btn btn-default">Learn More</a>
+                        <a class="text-body-a" target="_blank" href="http://lifestyle.mb.com.ph/2017/04/03/all-about-her/">All About Her</a><br>
+                        <a class="text-body-a" target="_blank" href="http://lifestyle.inquirer.net/244774/two-artists-align-visions-anxieties/">Two Artists Align Visions Anxieties</a><br>
+                        <a class="text-body-a" target="_blank" href="http://www.spot.ph/arts-culture/the-latest-arts-culture/67933/art-galleries-quezon-city-a00171-20160930-lfrm?ref=feed_1">Art Galleries Quezon City</a><br>
+                        <a class="text-body-a" target="_blank" href="http://lifestyle.inquirer.net/227850/dengcoy-miel-holds-first-one-man-exhibit/">Dengcoy Miel Holds First One Man Exhibit</a><br>
+                        <a class="text-body-a" target="_blank" href="http://www.choosephilippines.com/do/events-and-nightlife/3045/kaida-contemporary-aligned">Kaida Contemporary Aligned</a><br>
+                    <br>
+                        <a href="javascript:void(0);" onclick="getContent('','php/press.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         </div>

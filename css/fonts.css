@@ -24,4 +24,11 @@
 
 .text-body {
     font-family: 'PT Sans', sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+    color: black;
+}
+
+.text-body-a {
+    color: black;
 }
