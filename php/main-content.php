@@ -17,7 +17,7 @@
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-check"></i> Upcoming Event</h4>
+                    <h4>Upcoming Event</h4>
                 </div>
                 <div class="panel-body">
                     <p>The Moon Follows and the Sun is Always Beyond, Solo Exhibition by Eleanor Giron<br>

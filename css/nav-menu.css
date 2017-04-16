@@ -11,10 +11,12 @@
 }
 
 .nav-menu-bar-custom {
+    background-color: white;
     float: right;
     width: 800px;
     /*padding-top: 10px;*/
     overflow: hidden;
+    border-top: none;
 }
 
 .navbar-toggle-custom {
@@ -24,6 +26,7 @@
 .navbar-custom {
     background-color: white;
     height: 70px;
+    margin-bottom: 0;
 }
 
 .nav-title {
