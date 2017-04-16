@@ -57,6 +57,7 @@
                 <li>
                     <a href="https://www.facebook.com/kaidagallerymanila/"><i class="fa fa-facebook-square fa-2x"></i> kaidagallerymanila</a>
                 </li>
+                <br>
                 <li>
                     <a href="https://www.instagram.com/kaidacontemporarygallery/"><i class="fa fa-instagram fa-2x"></i> kaidacontemporarygallery</a>
                 </li>
