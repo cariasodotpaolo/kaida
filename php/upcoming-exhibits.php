@@ -17,7 +17,7 @@
                 <ol class="breadcrumb">
                     <li><a href=".">Home</a>
                     </li>
-                    <li class="active">Upcoming Exhibitions</li>
+                    <li class="active">Upcoming Exhibits</li>
                 </ol>
             </div>
         </div>
