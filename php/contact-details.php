@@ -124,7 +124,7 @@
             <div class="col-lg-12">
                 <p>Copyright &copy; www.kaidacontemporary.com 2017</p>
                 <br>
-                <p>Web Dev't and Admin: Michael Paolo Cariaso ( mpcariaso@gmail.com )</p>
+                <p class="webadmin-footer">Website Dev and Admin:<br> Michael Paolo Cariaso<br>mpcariaso@gmail.com</p>
             </div>
         </div>
     </footer>
