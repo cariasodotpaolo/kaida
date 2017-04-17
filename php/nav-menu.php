@@ -35,7 +35,7 @@
                     <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');closeMenu();">The Gallery</a>
                 </li>
                 <li>
-                    <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibits.php','main-body');closeMenu();">Upcoming Exhibits</a>
+                    <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');closeMenu();">Upcoming Exhibitions</a>
                 </li>
 
                 <li class="dropdown">
