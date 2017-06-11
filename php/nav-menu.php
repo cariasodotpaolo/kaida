@@ -42,7 +42,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Backroom</b></a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Past Shows</b></a>
+                    <a href="javascript:void(0);" onclick="getContent('','php/past-shows.php','main-body');closeMenu();">Past Shows</a>
 
                 </li>
                 <li>

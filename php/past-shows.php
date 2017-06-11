@@ -11,13 +11,13 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Upcoming Exhibitions
+                <h1 class="page-header">Past Shows
                     <small></small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href=".">Home</a>
                     </li>
-                    <li class="active">Upcoming Exhibitions</li>
+                    <li class="active">Past Shows</li>
                 </ol>
             </div>
         </div>
@@ -27,14 +27,50 @@
         <div class="row">
             <div class="col-md-7">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../assets/shalimar_gonzaga/elegies/FullSizeRender_1.jpg" alt="">
+                    <img class="img-responsive img-hover" src="../assets/giron/giron_01.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Shalimar Gonzaga</h3>
-                <h4>Elegies</h4>
+                <h3>Giron And Guazon</h3>
+                <h4></h4>
                 <p>
-                    Shalimar Gonzaga's Elegies tries to portray how our lack of genuineness disconnects us from the world. Social media and the intangible digital technology has been (or supposedly is) a platform for humans to reach out to each other, but the reality is that we are gradually detaching from each other and ourselves. The works focuses on the artist’s lament for the absence of warmth, iniquity, indifference and sorrow for a dark future that just might lead to humanity’s inevitable doom. It is a visual elegy that reflects the mind of the artist during somber moments, speaking of personal dirges that occur in the private hours when the world is being arbitrary and unmerciful.
+                    Kaida Contemporary’s Main Gallery presents Eleanor Giron’s recent works in The Moon Follows and
+                    the Sun is Always Beyond. By illustrating strength and resilience through the images in her paintings,
+                    the artist channels the energies of life’s moments and their accompanying emotions.
+                    In the face of adversity and depression, she shows reverence for darkness and ambiguity
+                    while aspiring and working for what is bright and beautiful.
+                    Giron’s paintings of butterflies and hummingbirds signify desires of taking flight and
+                    always moving forward, fully understanding that these winged creatures need to keep flapping
+                    their wings to avoid plummeting into imminent doom.
+                </p>
+                <p>
+                    The exhibition further chronicles the artist’s journey in her quest for self-realization through art.
+                    Her subjects flit and flurry through dynamic daubs of paint, sometimes adorned by strings that
+                    do not seem to hold them back. Perhaps it is an affinity to these winged creatures that propelled
+                    the artist to translate their triumph against nature’s challenges through visual narratives,
+                    or maybe they serve as guideposts to help her overcome her own struggles.
+                    Eleanor Giron's pieces lead our sights to better days ahead, aware of the possibilities of
+                    mischance and brewing cataclysms, but also serve as intimations of our own unlimited supplies of indomitability.
+                </p>
+                <p>
+                    Meanwhile, Eric Guazon’s solo exhibition Strike to Counter opens at the Gray Gallery.
+                    Guazon’s mixed media pieces explore the imagery of war and their pervasive presence in everyday life.
+                    For this show, the artist incorporates the wily figure of the storm trooper in compositions that
+                    adapt the bright colours of urban graffiti. The works take from the board game format
+                    where like chess or monopoly, elements are moved afoot in an exercise of cunning and wit.
+                    The emphasis on the notion of ‘game’ or ‘play’ relies on the increasing sophistication of war game
+                    strategies deployed across the globe, whose seeming efficiency and finesse is bolstered by distance
+                    afforded by technology. The horrors of war become far away realities; inflicted as they are by
+                    remote sensing where screen blips are understood as ‘wins’ or ‘hits’.
+                </p>
+                <p>
+                    Eric Guazon’s pieces and their grid layout reference the games that powers to be play,
+                    they are the remote sensing screens of missile trajectories, marked by the cold statistics of
+                    coordinates and the casualties that are their aftermath. The artist asserts we have long been
+                    indoctrinated into war and not a few of us have been conditioned to justify the need for
+                    violence to construct the world anew. The pieces will be installed in a way that echoes
+                    this paradox while emphasising the overarching defense of war and the looming imagery by which
+                    they become matter-of-fact, naturalised thus inevitable.
                 </p>
                 <p>
                     The Moon Follows and the Sun is Always Beyond and Strike to Counter opens on 16 April and will be on view until 1 May 2017.
@@ -47,26 +83,22 @@
         <hr>
 
         <!-- Project Two -->
-        <div class="row">
+        <!--<div class="row">
             <div class="col-md-7">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../assets/variance/VARIANCE2_web.jpg" alt="">
+                    <img class="img-responsive img-hover" src="http://placehold.it/700x300" alt="">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>VARIANCE by SELECTED ARTISTS</h3>
-                <h3>KAIDA CONTEMPORARY</h3>
-                <h4>18 JULY 2017</h4>
-                <p>On Sunday, June 18, in Kaida Contemporary's Grey Room, Resty Tica, Marlon Magbanua, Rick Hernandez, Demosthenes Campos, Binong Javier, Arden Mopera, Fitz Herrera, Gary Custodio, James Salarda, Jeline Laporga, Ly Cecilio, Alrashdi Mohammad, Melbourne Aquino and Linds Lee hold the artists’ reception for <strong>Variance</strong>, a collective exhibition of abstract works.</p>
-                <p>The group show could not have been held at a more opportune time, due to the quadruple victories of its participating artists in the nonrepresentational category of the recently-concluded 2017 GSIS National Art Competition. Magbanua won Third Prize, Hernandez and Javier garnered Honorable Mentions, and Herrera was a Finalist. This development reinforces the individual artists' conviction of focusing on abstraction and exploring its unlimited potentials for creative expression.</p>
-                <p>With shapes, colors, materials and themes running the gamut from tackling construction concerns, negotiating space, horizon and landscapes, a play in forms and lines from visual memory, inspiration from new life or the fear one comes across at the brink of self-discovery, selflessness or hope for humanity, the artworks in <strong>Variance</strong> are divergent and wide-ranging, worthy of representation from artists currently enmeshed in producing nonobjective pieces for their practice.</p>
-                <p><strong>Variance</strong> is on show until July 1. Kaida Contemporary is located at 45 Scout Madriñan, South Triangle, Quezon City. For inquiries, please contact +6324635859 or +639279297129, email kaida529@yahoo.com.ph, or search for Kaida Contemporary on Facebook and Instagram.</p>
-                <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
+                <h3>Project Two</h3>
+                <h4>Subheading</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
+                <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>
             </div>
-        </div>
+        </div>-->
         <!-- /.row -->
 
-        <!--<hr>
+        <!--<hr>-->
 
         <!-- Project Three -->
         <!--<div class="row">

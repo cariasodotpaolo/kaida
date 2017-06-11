@@ -17,7 +17,7 @@
     <!-- Custom CSS -->
     <link href="../css/kaida.css" rel="stylesheet">
     <link href="../css/template.css" rel="stylesheet">
-    <link href="../css/header-carousel.css" rel="stylesheet">
+    <link href="../css/banner-carousel.css" rel="stylesheet">
     <link href="../css/fonts.css" rel="stylesheet">
 
 
