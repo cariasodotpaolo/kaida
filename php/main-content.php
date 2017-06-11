@@ -20,10 +20,9 @@
                     <h4>Upcoming Event</h4>
                 </div>
                 <div class="panel-body">
-                    <p>The Moon Follows and the Sun is Always Beyond, Solo Exhibition by Eleanor Giron</p>
-                    <p>Strike to Counter, Solo Exhibition by Eric Guazon</p>
-                    <p>Kaida Contemporary<br>
-                       16 April - 1 May 2017 6:00PM
+                    <p>VARIANCE by SELECTED ARTISTS</p>
+                    <p>KAIDA CONTEMPORARY<br>
+                        18 JULY 2017
                     </p>
                     <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>

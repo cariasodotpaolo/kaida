@@ -36,9 +36,6 @@
                 <p>
                     Shalimar Gonzaga's Elegies tries to portray how our lack of genuineness disconnects us from the world. Social media and the intangible digital technology has been (or supposedly is) a platform for humans to reach out to each other, but the reality is that we are gradually detaching from each other and ourselves. The works focuses on the artist’s lament for the absence of warmth, iniquity, indifference and sorrow for a dark future that just might lead to humanity’s inevitable doom. It is a visual elegy that reflects the mind of the artist during somber moments, speaking of personal dirges that occur in the private hours when the world is being arbitrary and unmerciful.
                 </p>
-                <p>
-                    The Moon Follows and the Sun is Always Beyond and Strike to Counter opens on 16 April and will be on view until 1 May 2017.
-                </p>
                 <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
             </div>
         </div>
