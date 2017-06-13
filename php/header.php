@@ -10,10 +10,10 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <!--<li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
             <li data-target="#myCarousel" data-slide-to="4"></li>
-            <li data-target="#myCarousel" data-slide-to="5"></li>-->
+            <li data-target="#myCarousel" data-slide-to="5"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -21,49 +21,57 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('../assets/banner/banner_01.jpg');"></div>
                 <!--<div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>-->
             </div>
 
-            <!--<div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_04.jpg');"></div>
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/banner_02.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <p class="carousel-caption-title">SELFLESS by HERRERA</p>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/giron_05.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/banner_03.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">The Moon Follows and the Sun is Always Beyond</p>
-                    <p class="carousel-caption-title">Solo Exhibition by Eleanor Giron</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <p class="carousel-caption-title">VEGGIES by TICA</p>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/guazon_01.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/banner_04.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <P class="carousel-caption-title">TEETH NEBULA by MOHAMMAD</P>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/guazon_02.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/banner_05.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <P class="carousel-caption-title">PLATEAU by HERNANDEZ</P>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/guazon_03.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/banner/banner_06.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">Eric Guazon: Strike To Counter</p>
-                    <p class="carousel-caption-title">April 16 to May 1, 2017</p>
+                    <p class="carousel-caption-title">TREMULANT by CECILIO</p>
+                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JULY 2017</p>
                 </div>
-            </div>-->
+            </div>
         </div>
 
         <!-- Controls -->
