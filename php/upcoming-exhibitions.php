@@ -60,7 +60,7 @@
             <div class="col-md-5">
                 <h3>VARIANCE by SELECTED ARTISTS</h3>
                 <h3>KAIDA CONTEMPORARY</h3>
-                <h4>18 JULY 2017</h4>
+                <h4>18 JUNE 2017</h4>
                 <p>On Sunday, June 18, in Kaida Contemporary's Grey Room, Resty Tica, Marlon Magbanua, Rick Hernandez, Demosthenes Campos, Binong Javier, Arden Mopera, Fitz Herrera, Gary Custodio, James Salarda, Jeline Laporga, Ly Cecilio, Alrashdi Mohammad, Melbourne Aquino and Linds Lee hold the artists’ reception for <strong>Variance</strong>, a collective exhibition of abstract works.</p>
                 <p>The group show could not have been held at a more opportune time, due to the quadruple victories of its participating artists in the nonrepresentational category of the recently-concluded 2017 GSIS National Art Competition. Magbanua won Third Prize, Hernandez and Javier garnered Honorable Mentions, and Herrera was a Finalist. This development reinforces the individual artists' conviction of focusing on abstraction and exploring its unlimited potentials for creative expression.</p>
                 <p>With shapes, colors, materials and themes running the gamut from tackling construction concerns, negotiating space, horizon and landscapes, a play in forms and lines from visual memory, inspiration from new life or the fear one comes across at the brink of self-discovery, selflessness or hope for humanity, the artworks in <strong>Variance</strong> are divergent and wide-ranging, worthy of representation from artists currently enmeshed in producing nonobjective pieces for their practice.</p>

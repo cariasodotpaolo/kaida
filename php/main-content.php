@@ -17,13 +17,18 @@
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4>Upcoming Event</h4>
+                    <h4>Upcoming Exhibition</h4>
                 </div>
                 <div class="panel-body">
                     <p>VARIANCE by SELECTED ARTISTS</p>
                     <p>KAIDA CONTEMPORARY<br>
-                        18 JULY 2017
+                        18 JUNE 2017
                     </p>
+                    <p>PAMELA QUINTO & LUI GONZALES</p>
+                    <p>KAIDA CONTEMPORARY<br>
+                        18 JUNE 2017
+                    </p>
+
                     <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>
             </div>
