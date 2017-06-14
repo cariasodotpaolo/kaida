@@ -14,6 +14,9 @@
             <li data-target="#myCarousel" data-slide-to="3"></li>
             <li data-target="#myCarousel" data-slide-to="4"></li>
             <li data-target="#myCarousel" data-slide-to="5"></li>
+            <li data-target="#myCarousel" data-slide-to="6"></li>
+            <li data-target="#myCarousel" data-slide-to="7"></li>
+            <li data-target="#myCarousel" data-slide-to="8"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -70,6 +73,30 @@
                     <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
                     <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
                     <p class="carousel-caption-title">18 JULY 2017</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/banner_07.jpg');"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">PAMELA QUINTO & LUI GONZALES</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JUNE 2017</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/banner_08.jpg');"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">LUI GONZALES</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JUNE 2017</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('../assets/banner/banner_09.jpg');"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">PAMELA QUINTO</p>
+                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
+                    <p class="carousel-caption-title">18 JUNE 2017</p>
                 </div>
             </div>
         </div>

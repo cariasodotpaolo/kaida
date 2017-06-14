@@ -23,6 +23,23 @@
         </div>
         <!-- /.row -->
 
+        <div class="row">
+            <div class="col-md-7">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-hover" src="../assets/shalimar_gonzaga/elegies/FullSizeRender_1.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Shalimar Gonzaga</h3>
+                <h4>Elegies</h4>
+                <p>
+                    Shalimar Gonzaga's Elegies tries to portray how our lack of genuineness disconnects us from the world. Social media and the intangible digital technology has been (or supposedly is) a platform for humans to reach out to each other, but the reality is that we are gradually detaching from each other and ourselves. The works focuses on the artist’s lament for the absence of warmth, iniquity, indifference and sorrow for a dark future that just might lead to humanity’s inevitable doom. It is a visual elegy that reflects the mind of the artist during somber moments, speaking of personal dirges that occur in the private hours when the world is being arbitrary and unmerciful.
+                </p>
+                <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
+            </div>
+        </div>
+        <hr>
+
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">

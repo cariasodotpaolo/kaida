@@ -27,14 +27,21 @@
         <div class="row">
             <div class="col-md-7">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../assets/shalimar_gonzaga/elegies/FullSizeRender_1.jpg" alt="">
+                    <img class="img-responsive img-hover" src="../assets/gonzales_quinto/tirhan.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Shalimar Gonzaga</h3>
-                <h4>Elegies</h4>
+                <h3>Pamela Quinto & Lui gonzales</h3>
+                <h3>KAIDA CONTEMPORARY</h3>
+                <h4>June 18, 2017</h4>
                 <p>
-                    Shalimar Gonzaga's Elegies tries to portray how our lack of genuineness disconnects us from the world. Social media and the intangible digital technology has been (or supposedly is) a platform for humans to reach out to each other, but the reality is that we are gradually detaching from each other and ourselves. The works focuses on the artist’s lament for the absence of warmth, iniquity, indifference and sorrow for a dark future that just might lead to humanity’s inevitable doom. It is a visual elegy that reflects the mind of the artist during somber moments, speaking of personal dirges that occur in the private hours when the world is being arbitrary and unmerciful.
+                    Kaida Contemporary opens Tirhan, a two-man exhibition by Lui Gonzales and Pamela Quinto on June 18, Sunday at six o’clock in the evening. With their works commonly focused on their home perspectives and ideals, the two artists present images that express values and ethics found in their respective personal spaces.
+                </p>
+                <p>
+                    Gonzales creates wall-bound pieces that dwell on the sentimentality of everyday objects around a house as they pile up, filling spaces, nooks and crannies. These objects are treated as subject matter through layers of drawings torn to show details simultaneously. Tearing them irregularly becomes crucial to the works as they manifest detachment from the object's previously known sensibilities while expounding on the feeling of being kept as mementos chronicling life, or at the very least, fragments of it.
+                </p>
+                <p>
+                    Quinto’s works - an amalgamation of photographs, collected letters, ceramic sculpture pieces, and an installation with molded cement - delve on the subject of living with someone who has mental health issues. Meant to be a visual letter for a depressive subject, images that the artist has taken over the past two years document symptoms of depression such as lassitude and social isolation, as well as the ripple effect that the illness has on other family members.
                 </p>
                 <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
             </div>
