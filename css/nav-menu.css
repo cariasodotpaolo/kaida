@@ -52,6 +52,18 @@
     background-color: transparent;
 }
 
+.sub-nav-custom {
+    visibility: hidden;
+    position: absolute;
+    z-index: 99999;
+}
+
+ul li:hover > ul
+{
+    visibility:visible;
+    /*opacity:1;*/
+}
+
 .icon-bar-color {
     background: black;
 }

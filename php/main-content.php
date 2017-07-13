@@ -14,26 +14,35 @@
                 What's New?
             </h2>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Current Exhibition</h4>
+                </div>
+                <div class="panel-body">
+                    <p>Enigmas by DengCoy Miel</p>
+                    <p>9-24 JULY 2017</p>
+                    <p>#artfusion! By Various Artists</p>
+                    <p>9 JULY 2017</p>
+
+                    <a href="javascript:void(0);" onclick="getContent('','php/current-exhibitions.php','main-body');" class="btn btn-default">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4>Upcoming Exhibition</h4>
                 </div>
                 <div class="panel-body">
-                    <p>VARIANCE by SELECTED ARTISTS</p>
-                    <p>KAIDA CONTEMPORARY<br>
-                        18 JUNE 2017
-                    </p>
-                    <p>PAMELA QUINTO & LUI GONZALES</p>
-                    <p>KAIDA CONTEMPORARY<br>
-                        18 JUNE 2017
-                    </p>
+                    <p>Watch out for upcoming exhibitions!</p>
+                    <p>We'll keep you posted.</p>
 
                     <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4>Press</h4>
@@ -50,7 +59,7 @@
             </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-3">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4>Links</h4>
@@ -84,6 +93,7 @@
     <!-- /.row -->
 
     <!-- Portfolio Section -->
+    <!--
     <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Featured Artwork</h2>
@@ -119,6 +129,7 @@
             </a>
         </div>
     </div>
+    -->
     <!-- /.row -->
 
     <!-- Features Section -->

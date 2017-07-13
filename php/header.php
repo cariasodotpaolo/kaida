@@ -22,81 +22,76 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner carousel-inner-custom">
             <div class="item active">
-                <div class="fill" style="background-image:url('../assets/banner/banner_01.jpg');"></div>
-                <!--<div class="carousel-caption">
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
-                </div>-->
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Dela Cruz_Fire Starter.jpg'); width: 100%;"></div>
+                <div class="carousel-caption">
+                    <p class="carousel-caption-title">Fire Starter By Demet Dela Cruz</p>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
+                </div>
             </div>
 
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_02.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/MIEL_Frida.jpg'); width: 100%;"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">SELFLESS by HERRERA</p>
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
+                    <p class="carousel-caption-title">Frida By DengCoy Miel</p>
+                    <p class="carousel-caption-title">Enigmas</p>
+                    <p class="carousel-caption-title">9-24 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_03.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Guevarra_MidnightBlueTraveler.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">VEGGIES by TICA</p>
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
+                    <p class="carousel-caption-title">Midnight Blue Traveler By Darwin Guevarra</p>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_04.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Ines_Guni-Guni.jpg');"></div>
                 <div class="carousel-caption">
-                    <P class="carousel-caption-title">TEETH NEBULA by MOHAMMAD</P>
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
+                    <P class="carousel-caption-title">Guni-Guni By Philipp Ines</P>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_05.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Orencio_Lilim.jpg');"></div>
                 <div class="carousel-caption">
-                    <P class="carousel-caption-title">PLATEAU by HERNANDEZ</P>
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
+                    <P class="carousel-caption-title">Lilim By Jim Orencio</P>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_06.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Sebastian_Kinetic Sculpture 2.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">TREMULANT by CECILIO</p>
-                    <p class="carousel-caption-title">VARIANCE by SELECTED ARTISTS</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JULY 2017</p>
+                    <p class="carousel-caption-title">Kinetic Sculpture By Migi Sebastian</p>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_07.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Seiling_Austere Illusions.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">PAMELA QUINTO & LUI GONZALES</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JUNE 2017</p>
+                    <p class="carousel-caption-title">Austere Illusions By Mike Seiling</p>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_08.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Sintos_Pilot 1.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">LUI GONZALES</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JUNE 2017</p>
+                    <p class="carousel-caption-title">Pilot By Manuel Sintos</p>
+                    <p class="carousel-caption-title">#artfusion!</p>
+                    <p class="carousel-caption-title">9 JULY 2017</p>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('../assets/banner/banner_09.jpg');"></div>
+                <div class="fill" style="background-image:url('../assets/enigmas_artfusions/MIEL_Pandoras Box.jpg');"></div>
                 <div class="carousel-caption">
-                    <p class="carousel-caption-title">PAMELA QUINTO</p>
-                    <p class="carousel-caption-title">KAIDA CONTEMPORARY</p>
-                    <p class="carousel-caption-title">18 JUNE 2017</p>
+                    <p class="carousel-caption-title">Pandoras Box By DengCoy Miel</p>
+                    <p class="carousel-caption-title">Enigmas</p>
+                    <p class="carousel-caption-title">9-24 JULY 2017</p>
                 </div>
             </div>
         </div>

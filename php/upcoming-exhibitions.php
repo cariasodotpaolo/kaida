@@ -22,16 +22,22 @@
             </div>
         </div>
         <!-- /.row -->
-
+                <div class="row">
+                    <div class="col-md-7">
+                        <h1>To Be Updated....</h1>
+                    </div>
+                    <div class="col-md-5">
+                    </div>
+                </div>
         <!-- Project One -->
-        <div class="row">
+        <!--<div class="row">
             <div class="col-md-7">
                 <a href="portfolio-item.html">
                     <img class="img-responsive img-hover" src="../assets/gonzales_quinto/tirhan.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Pamela Quinto & Lui gonzales</h3>
+                <h3>Pamela Quinto & Lui Gonzales</h3>
                 <h3>KAIDA CONTEMPORARY</h3>
                 <h4>June 18, 2017</h4>
                 <p>
@@ -43,15 +49,15 @@
                 <p>
                     Quinto’s works - an amalgamation of photographs, collected letters, ceramic sculpture pieces, and an installation with molded cement - delve on the subject of living with someone who has mental health issues. Meant to be a visual letter for a depressive subject, images that the artist has taken over the past two years document symptoms of depression such as lassitude and social isolation, as well as the ripple effect that the illness has on other family members.
                 </p>
-                <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
+                <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>
             </div>
-        </div>
+        </div>-->
         <!-- /.row -->
 
-        <hr>
+        <!--<hr>-->
 
         <!-- Project Two -->
-        <div class="row">
+        <!--<div class="row">
             <div class="col-md-7">
                 <a href="portfolio-item.html">
                     <img class="img-responsive img-hover" src="../assets/variance/VARIANCE2_web.jpg" alt="">
@@ -65,12 +71,12 @@
                 <p>The group show could not have been held at a more opportune time, due to the quadruple victories of its participating artists in the nonrepresentational category of the recently-concluded 2017 GSIS National Art Competition. Magbanua won Third Prize, Hernandez and Javier garnered Honorable Mentions, and Herrera was a Finalist. This development reinforces the individual artists' conviction of focusing on abstraction and exploring its unlimited potentials for creative expression.</p>
                 <p>With shapes, colors, materials and themes running the gamut from tackling construction concerns, negotiating space, horizon and landscapes, a play in forms and lines from visual memory, inspiration from new life or the fear one comes across at the brink of self-discovery, selflessness or hope for humanity, the artworks in <strong>Variance</strong> are divergent and wide-ranging, worthy of representation from artists currently enmeshed in producing nonobjective pieces for their practice.</p>
                 <p><strong>Variance</strong> is on show until July 1. Kaida Contemporary is located at 45 Scout Madriñan, South Triangle, Quezon City. For inquiries, please contact +6324635859 or +639279297129, email kaida529@yahoo.com.ph, or search for Kaida Contemporary on Facebook and Instagram.</p>
-                <!--<a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>-->
+                <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a>
             </div>
-        </div>
+        </div>-->
         <!-- /.row -->
 
-        <!--<hr>
+        <!--<hr>-->
 
         <!-- Project Three -->
         <!--<div class="row">

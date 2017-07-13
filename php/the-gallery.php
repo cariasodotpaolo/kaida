@@ -39,7 +39,11 @@
                     exploration and definition of all things contemporary art.
                 </p>
                 <p>
-                    When Kaida says contemporary, they mean it.
+                    Kaida Contemporary has steadfastly served as a springboard for today's most sought-after emerging and established Filipino artists since 2007. As the gallery continues to support painters, sculptors and other media artists, it provides a platform for collaboration, exploration and definition of all things contemporary art.
+                </p>
+                <p></p>
+                <p>
+                    <i>When Kaida says contemporary, they mean it.</i>
                 </p>
             </div>
         </div>

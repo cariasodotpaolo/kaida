@@ -34,17 +34,23 @@
                 <li>
                     <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');closeMenu();">The Gallery</a>
                 </li>
-                <li>
-                    <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');closeMenu();">Upcoming Exhibitions</a>
+                <li><a href="javascript:void(0);" onclick="getContent('','php/current-exhibitions.php','main-body');closeMenu();">Exhibitions</a>
+                    <ul class="nav nav-custom sub-nav-custom">
+                        <li class="dropdown">
+                            <a href="javascript:void(0);" onclick="getContent('','php/current-exhibitions.php','main-body');closeMenu();">Current Exhibitions</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:void(0);" onclick="getContent('','php/upcoming-exhibitions.php','main-body');closeMenu();">Upcoming Exhibitions</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:void(0);" onclick="getContent('','php/past-shows.php','main-body');closeMenu();">Past Shows</a>
+                        </li>
+                    </ul>
                 </li>
-
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Backroom</b></a>
                 </li>
-                <li class="dropdown">
-                    <a href="javascript:void(0);" onclick="getContent('','php/past-shows.php','main-body');closeMenu();">Past Shows</a>
 
-                </li>
                 <li>
                     <a href="javascript:void(0);" onclick="getContent('','php/contact-details.php','main-body');closeMenu();">Contact</a>
                 </li>
