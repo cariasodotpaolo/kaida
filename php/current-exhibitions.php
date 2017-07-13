@@ -31,7 +31,7 @@
                 </a>
             </div>
             <div class="col-md-5">
-                <h2>Enigma</h2>
+                <h2>Enigmas</h2>
                 <h3>A Solo Exhibition by DengCoy Miel</h3>
                 <h4>9-24 JULY 2017</h4>
                 <p>

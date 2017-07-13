@@ -62,7 +62,6 @@
 ul li:hover > ul
 {
     visibility:visible;
-    text-align: right;
     /*opacity:1;*/
 }
 
