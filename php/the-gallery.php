@@ -25,7 +25,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive logo-img" src="../assets/kaida.jpg" alt="">
+                <img class="img-responsive logo-img" src="../assets/kaida-logo-new_01.JPG" alt="">
             </div>
             <div class="col-md-6">
                 <h2>About Us</h2>

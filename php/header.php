@@ -23,7 +23,7 @@
         <div class="carousel-inner carousel-inner-custom">
             <div class="item active">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Dela Cruz_Fire Starter.jpg'); width: 100%;"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Fire Starter By Demet Dela Cruz</p>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -32,7 +32,7 @@
 
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/MIEL_Frida.jpg'); width: 100%;"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Frida By DengCoy Miel</p>
                     <p class="carousel-caption-title">Enigmas</p>
                     <p class="carousel-caption-title">9-24 JULY 2017</p>
@@ -40,7 +40,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Guevarra_MidnightBlueTraveler.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Midnight Blue Traveler By Darwin Guevarra</p>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -48,7 +48,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Ines_Guni-Guni.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <P class="carousel-caption-title">Guni-Guni By Philipp Ines</P>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -56,7 +56,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Orencio_Lilim.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <P class="carousel-caption-title">Lilim By Jim Orencio</P>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -64,7 +64,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Sebastian_Kinetic Sculpture 2.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Kinetic Sculpture By Migi Sebastian</p>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -72,7 +72,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Seiling_Austere Illusions.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Austere Illusions By Mike Seiling</p>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -80,7 +80,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/Sintos_Pilot 1.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Pilot By Manuel Sintos</p>
                     <p class="carousel-caption-title">#artfusion!</p>
                     <p class="carousel-caption-title">9 JULY 2017</p>
@@ -88,7 +88,7 @@
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('../assets/enigmas_artfusions/MIEL_Pandoras Box.jpg');"></div>
-                <div class="carousel-caption">
+                <div class="carousel-caption carousel-caption-custom">
                     <p class="carousel-caption-title">Pandoras Box By DengCoy Miel</p>
                     <p class="carousel-caption-title">Enigmas</p>
                     <p class="carousel-caption-title">9-24 JULY 2017</p>
