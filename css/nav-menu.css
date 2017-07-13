@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 
-.nav-menu-bar-custom {
+. nav-menu-bar-custom {
     background-color: white;
     float: right;
     width: 800px;
@@ -35,7 +35,7 @@
     font-size: 22px;
 }
 
-. nav-custom {
+.nav-custom {
     background-color: white;
     text-align: right;
 }
@@ -56,11 +56,13 @@
     visibility: hidden;
     position: absolute;
     z-index: 99999;
+    text-align: right;
 }
 
 ul li:hover > ul
 {
     visibility:visible;
+    text-align: right;
     /*opacity:1;*/
 }
 

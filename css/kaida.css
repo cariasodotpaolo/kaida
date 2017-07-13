@@ -84,19 +84,10 @@ footer {
 
 /* Responsive Styles */
 
-@media (max-width:1200px) {
-    .fill {
-        width: 100%;
-    }
-}
 @media(max-width:991px) {
     .customer-img,
     .img-related {
         margin-bottom: 30px;
-    }
-
-    .fill {
-        width: 100%;
     }
 }
 
@@ -107,10 +98,6 @@ footer {
 
     header.carousel .carousel {
         height: 70%;
-    }
-
-    .fill {
-        width: 100%;
     }
 }
 

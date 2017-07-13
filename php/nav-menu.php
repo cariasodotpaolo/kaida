@@ -34,8 +34,8 @@
                 <li>
                     <a href="javascript:void(0);" onclick="getContent('the-gallery','php/the-gallery.php','main-body');closeMenu();">The Gallery</a>
                 </li>
-                <li><a href="#">Exhibitions</a>
-                    <ul class="nav nav-custom sub-nav-custom">
+                <li><a href="javascript:void(0);" onclick="getContent('','php/current-exhibitions.php','main-body');closeMenu();">Exhibitions</a>
+                    <ul class="nav navbar-nav navbar-right nav-custom sub-nav-custom">
                         <li class="dropdown">
                             <a href="javascript:void(0);" onclick="getContent('','php/current-exhibitions.php','main-body');closeMenu();">Current Exhibitions</a>
                         </li>
